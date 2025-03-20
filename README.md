@@ -1,1 +1,2 @@
-Visit [opensource.hamrosoft.com](https://opensource.hamrosoft.com) to learn more!
+# .github
+Default Community Health Files for the Hamrosoft organization on GitHub
